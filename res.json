@@ -1,1 +1,12 @@
-
+[
+  {
+    "username": "lutfhi",
+    "password": "lutfhi65",
+    "active_until": "2028-12-31"
+  },
+  {
+    "username": "radz",
+    "password": "bugbug",
+    "active_until": "2025-07-31"
+  }
+]
